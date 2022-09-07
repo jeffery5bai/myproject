@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+streamlit = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+datetime = "*"
 
 [dev-packages]
 
